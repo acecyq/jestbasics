@@ -1,0 +1,26 @@
+{
+  "name": "jestbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acecyq/jestbasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acecyq/jestbasics/issues"
+  },
+  "homepage": "https://github.com/acecyq/jestbasics#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
